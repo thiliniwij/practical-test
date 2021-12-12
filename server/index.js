@@ -62,5 +62,5 @@ app.post('/info', (req, res) => {
 
 
 app.listen(3001, () => {
-    console.log('Yeah, running server ');
+    console.log('running server ');
 });
