@@ -1,6 +1,6 @@
 # practical-test
 ## Programming Lanuages
-<p>Front Edend Languages</p>
+### Front End Languages
 <ul>
 <li>HTML</li>
 <li>CSS</li>
@@ -8,15 +8,19 @@
 <li>React js</li>
 </ul>
 
-<p>Back End Languages</p>
+### Back End Languages
 <ul>
 <li>Node.js</li>
 </ul>
 
-<p>Query Languages</p>
+### Query Languages
 <ul>
 <li>MySQL</li>
 </ul>
+
+### Packages
+Front end - axios<br/>
+Back end - express, mysql, cors
 
 ## Description
 <p>
@@ -39,4 +43,9 @@ After press LOGIN button there will be user information form. When user submit t
 >node index.js
 ```
 
+<p>To install packages</p>
+
+```bash
+>npm install <package name>
+```
 
